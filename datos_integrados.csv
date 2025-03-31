@@ -1,0 +1,107 @@
+id_pais,pais,capital,continente,poblacion,tasa_de_envejecimiento,precio_big_mac_usd,costo_bajo_hospedaje,costo_promedio_comida,costo_bajo_transporte,costo_promedio_entretenimiento,capital_costos,region_costos,tipo_dato_costos
+21,Albania,Desconocido,Europa,10185447.5,17.24,5.79,58.32,43.2,5.4,20.52,Tirana,Southern Europe,costos_turisticos
+96,Andorra,Desconocido,Europa,8786461.0,14.88,2.08,24.84,27.0,4.32,31.32,Andorra la Vella,Southern Europe,costos_turisticos
+7,Angola,Desconocido,África,25179685.0,6.16,3.39,9.0,30.0,15.0,45.0,Luanda,África Central,costos_turisticos
+37,Arabia Saudita,Desconocido,Asia,26153484.5,11.09,4.3,22.0,43.0,19.0,22.0,Riad,Asia Occidental,costos_turisticos
+93,Argelia,Desconocido,África,30672071.0,20.22,5.08,31.0,41.0,28.0,28.0,Argel,África del Norte,costos_turisticos
+16,Argentina,Desconocido,América,31344436.0,8.67,4.84,28.0,43.0,14.0,34.0,Buenos Aires,América del Sur,costos_turisticos
+27,Austria,Desconocido,Europa,13205151.5,8.99,5.55,37.8,37.8,8.64,30.24,Vienna,Western Europe,costos_turisticos
+77,Bangladés,Desconocido,Asia,91091240.5,20.43,3.53,39.0,61.0,46.0,36.0,Daca,Asia Meridional,costos_turisticos
+20,Belarus,Desconocido,Europa,13445979.5,10.82,4.55,34.56,54.0,14.04,23.76,Minsk,Eastern Europe,costos_turisticos
+66,Belgium,Desconocido,Europa,14541360.5,15.85,4.66,55.08,16.2,4.32,14.04,Brussels,Western Europe,costos_turisticos
+80,Bolivia,Desconocido,América,14583063.5,7.32,5.92,39.0,70.0,47.0,53.0,La Paz,América del Sur,costos_turisticos
+82,Bosnia and Herzegovina,Desconocido,Europa,10386958.5,17.47,6.22,55.08,27.0,4.32,28.08,Sarajevo,Southern Europe,costos_turisticos
+44,Brasil,Desconocido,América,115026257.5,23.19,2.93,37.0,20.0,23.0,48.0,Brasilia,América del Sur,costos_turisticos
+100,Bulgaria,Desconocido,Europa,12168847.5,7.16,3.13,58.32,47.52,5.4,21.6,Sofia,Eastern Europe,costos_turisticos
+30,Camerún,Desconocido,África,22019480.5,5.93,4.2,9.0,18.0,26.0,43.0,Yaundé,África Central,costos_turisticos
+25,Canadá,Desconocido,América,27617626.0,14.12,4.52,49.0,74.0,23.0,40.0,Ottawa,América del Norte,costos_turisticos
+18,Chile,Desconocido,América,18304649.5,15.5,6.64,39.0,47.0,51.0,58.0,Santiago,América del Sur,costos_turisticos
+98,China,Desconocido,Asia,709802549.0,13.55,5.47,28.0,30.0,21.0,63.0,Pekín,Asia Oriental,costos_turisticos
+39,Vatican City,Desconocido,Europa,8746961.5,18.68,4.52,54.0,49.68,7.56,14.04,Vatican City,Southern Europe,costos_turisticos
+26,Colombia,Desconocido,América,34187994.5,20.7,4.18,20.0,60.0,34.0,25.0,Bogotá,América del Sur,costos_turisticos
+10,Corea del Sur,Desconocido,Asia,34381141.5,19.16,6.02,24.0,28.0,14.0,18.0,Seúl,Asia Oriental,costos_turisticos
+101,Costa de Marfil,Desconocido,África,21935686.0,5.63,3.99,20.0,30.0,7.0,31.0,Yamusukro,África Occidental,costos_turisticos
+43,Costa Rica,Desconocido,América,11293608.0,5.69,1.83,16.0,31.0,14.0,35.0,San José,América Central,costos_turisticos
+103,Croatia,Desconocido,Europa,10673688.5,11.29,7.02,43.2,47.52,15.12,18.36,Zagreb,Southern Europe,costos_turisticos
+13,Cuba,Desconocido,América,14409857.0,21.65,2.64,28.0,57.0,26.0,31.0,La Habana,Caribe,costos_turisticos
+97,Cyprus,Desconocido,Europa,9350228.5,15.45,6.46,39.96,45.36,9.72,12.96,Nicosia,Southern Europe,costos_turisticos
+14,Denmark,Desconocido,Europa,11662251.0,9.25,2.01,24.84,34.56,4.32,14.04,Copenhagen,Northern Europe,costos_turisticos
+106,Ecuador,Desconocido,América,17568079.0,9.99,2.9,31.0,48.0,29.0,59.0,Quito,América del Sur,costos_turisticos
+86,Egipto,Desconocido,África,59913751.0,11.5,2.94,26.0,10.0,29.0,33.0,El Cairo,África del Norte,costos_turisticos
+79,El Salvador,Desconocido,América,11989651.5,12.17,2.32,28.0,60.0,30.0,23.0,San Salvador,América Central,costos_turisticos
+12,Estados Unidos,Desconocido,América,174247874.5,24.4,4.46,23.0,43.0,19.0,21.0,Washington D. C.,América del Norte,costos_turisticos
+28,Estonia,Desconocido,Europa,9409816.5,15.28,7.08,51.84,37.8,11.88,25.92,Tallinn,Northern Europe,costos_turisticos
+17,Etiopía,Desconocido,África,66228343.0,11.08,6.38,16.0,12.0,21.0,28.0,Adís Abeba,África Oriental,costos_turisticos
+61,Filipinas,Desconocido,Asia,63537088.0,12.77,2.13,19.0,44.0,32.0,25.0,Manila,Sudeste Asiático,costos_turisticos
+24,Finland,Desconocido,Europa,11516909.0,12.33,1.61,56.16,16.2,6.48,19.44,Helsinki,Northern Europe,costos_turisticos
+102,France,Desconocido,Europa,42442340.0,17.73,4.29,45.36,28.08,4.32,23.76,Paris,Western Europe,costos_turisticos
+91,Germany,Desconocido,Europa,50321199.0,7.39,5.62,48.6,16.2,7.56,30.24,Berlin,Western Europe,costos_turisticos
+46,Ghana,Desconocido,África,24283019.0,18.25,2.13,19.0,31.0,23.0,25.0,Accra,África Occidental,costos_turisticos
+58,Greece,Desconocido,Europa,14108848.5,8.92,3.77,32.4,22.68,6.48,10.8,Athens,Southern Europe,costos_turisticos
+78,Guatemala,Desconocido,América,17704333.0,6.48,2.83,14.0,72.0,35.0,63.0,Ciudad de Guatemala,América Central,costos_turisticos
+105,Honduras,Desconocido,América,13698853.0,23.15,3.24,42.0,33.0,27.0,36.0,Tegucigalpa,América Central,costos_turisticos
+6,Hungary,Desconocido,Europa,13549678.5,8.12,5.81,45.36,21.6,11.88,19.44,Budapest,Eastern Europe,costos_turisticos
+71,Iceland,Desconocido,Europa,8932809.0,20.44,2.74,39.96,17.28,9.72,10.8,Reykjavik,Northern Europe,costos_turisticos
+47,India,Desconocido,Asia,698748741.5,11.23,6.61,49.0,60.0,14.0,38.0,Nueva Delhi,Asia Meridional,costos_turisticos
+49,Indonesia,Desconocido,Asia,145508356.5,15.93,4.8,28.0,60.0,11.0,40.0,Yakarta,Sudeste Asiático,costos_turisticos
+81,Ireland,Desconocido,Europa,11243911.0,22.26,4.07,59.4,50.76,11.88,17.28,Dublin,Northern Europe,costos_turisticos
+11,Irán,Desconocido,Asia,50743023.5,5.41,1.62,11.0,53.0,37.0,26.0,Teherán,Asia Occidental,costos_turisticos
+63,Israel,Desconocido,Asia,13074316.5,21.57,2.79,48.0,15.0,30.0,27.0,Jerusalén,Asia Occidental,costos_turisticos
+55,Italy,Desconocido,Europa,38523560.5,16.96,7.33,41.04,19.44,9.72,32.4,Rome,Southern Europe,costos_turisticos
+8,Japón,Desconocido,Asia,71984779.5,22.32,6.45,14.0,17.0,42.0,23.0,Tokio,Asia Oriental,costos_turisticos
+41,Jordania,Desconocido,Asia,13848116.0,7.44,5.47,26.0,48.0,13.0,53.0,Amán,Asia Occidental,costos_turisticos
+62,Kazajistán,Desconocido,Asia,18134902.5,10.43,7.4,35.0,33.0,41.0,60.0,Nursultán,Asia Central,costos_turisticos
+56,Kenia,Desconocido,África,35632197.0,23.44,4.24,29.0,22.0,22.0,34.0,Nairobi,África Oriental,costos_turisticos
+3,Kosovo,Pristina,Europa,1800000.0,19.64,5.96,52.92,45.36,11.88,17.28,Pristina,Southern Europe,costos_turisticos
+1,Latvia,Riga,Europa,1887015.5,12.49,1.77,47.52,52.92,4.32,10.8,Riga,Northern Europe,costos_turisticos
+19,Liechtenstein,Desconocido,Europa,8766004.0,13.64,1.88,32.4,22.68,10.8,19.44,Vaduz,Western Europe,costos_turisticos
+40,Lithuania,Desconocido,Europa,10143899.0,13.8,3.95,39.96,35.64,9.72,27.0,Vilnius,Northern Europe,costos_turisticos
+68,Luxembourg,Desconocido,Europa,9063956.0,21.04,6.7,20.52,46.44,10.8,17.28,Luxembourg,Western Europe,costos_turisticos
+42,Malasia,Desconocido,Asia,24929548.5,14.9,4.19,25.0,23.0,29.0,58.0,Kuala Lumpur,Sudeste Asiático,costos_turisticos
+32,Malta,Desconocido,Europa,9003831.0,8.41,2.01,36.72,47.52,14.04,24.84,Valletta,Southern Europe,costos_turisticos
+83,Malí,Desconocido,África,18871965.5,11.62,6.92,28.0,38.0,24.0,28.0,Bamako,África Occidental,costos_turisticos
+89,Marruecos,Desconocido,África,27201829.0,22.74,6.31,20.0,22.0,21.0,35.0,Rabat,África del Norte,costos_turisticos
+87,Moldova,Desconocido,Europa,10066768.0,19.59,2.61,22.68,33.48,4.32,18.36,Chișinău,Eastern Europe,costos_turisticos
+95,Monaco,Desconocido,Europa,8766170.0,20.42,3.32,39.96,17.28,12.96,20.52,Monaco,Western Europe,costos_turisticos
+35,Montenegro,Desconocido,Europa,9057408.0,24.31,2.82,50.76,35.64,4.32,10.8,Podgorica,Southern Europe,costos_turisticos
+64,Mozambique,Desconocido,África,24374266.5,12.14,2.53,9.0,41.0,9.0,32.0,Maputo,África Austral,costos_turisticos
+15,México,Desconocido,América,73212925.5,8.64,6.7,46.0,57.0,30.0,37.0,Ciudad de México,América del Norte,costos_turisticos
+51,Namibia,Desconocido,África,10017001.5,24.39,2.28,8.0,25.0,11.0,14.0,Windhoek,África Austral,costos_turisticos
+84,Nepal,Desconocido,Asia,23314953.0,6.27,2.61,10.0,21.0,37.0,57.0,Katmandú,Asia Meridional,costos_turisticos
+92,Netherlands,Desconocido,Europa,17467118.5,19.26,2.52,59.4,37.8,4.32,17.28,Amsterdam,Western Europe,costos_turisticos
+53,Nigeria,Desconocido,África,111816343.5,23.79,4.98,28.0,22.0,15.0,28.0,Abuja,África Occidental,costos_turisticos
+22,North Macedonia,Desconocido,Europa,9788459.5,7.79,1.51,44.28,42.12,9.72,22.68,Skopje,Southern Europe,costos_turisticos
+67,Norway,Desconocido,Europa,11457169.5,7.82,4.52,65.88,22.68,8.64,29.16,Oslo,Northern Europe,costos_turisticos
+104,Pakistán,Desconocido,Asia,119192719.0,15.17,2.81,16.0,25.0,26.0,60.0,Islamabad,Asia Meridional,costos_turisticos
+31,Panamá,Desconocido,América,10903932.5,17.15,6.93,30.0,70.0,47.0,37.0,Ciudad de Panamá,América Central,costos_turisticos
+99,Paraguay,Desconocido,América,12312814.0,5.51,4.54,16.0,68.0,19.0,21.0,Asunción,América del Sur,costos_turisticos
+70,Perú,Desconocido,América,25232476.0,24.74,2.81,16.0,63.0,48.0,56.0,Lima,América del Sur,costos_turisticos
+88,Poland,Desconocido,Europa,27939549.0,17.75,3.82,35.64,46.44,5.4,20.52,Warsaw,Eastern Europe,costos_turisticos
+23,Portugal,Desconocido,Europa,13894503.5,10.84,1.87,32.4,27.0,15.12,15.12,Lisbon,Southern Europe,costos_turisticos
+36,United Kingdom,Desconocido,Europa,42354195.5,21.17,4.89,24.84,52.92,11.88,25.92,London,Northern Europe,costos_turisticos
+94,Czech Republic,Desconocido,Europa,14101039.5,16.23,5.34,24.84,37.8,12.96,17.28,Prague,Eastern Europe,costos_turisticos
+69,República Dominicana,Desconocido,América,14170504.0,6.49,3.38,37.0,31.0,21.0,29.0,Santo Domingo,Caribe,costos_turisticos
+2,Romania,Bucarest,Europa,19060805.0,24.01,1.69,28.08,27.0,15.12,22.68,Bucharest,Eastern Europe,costos_turisticos
+33,Ruanda,Desconocido,África,15222658.0,6.3,2.96,7.0,17.0,17.0,45.0,Kigali,África Oriental,costos_turisticos
+72,Russia,Desconocido,Europa,80798589.0,8.97,2.66,55.08,16.2,7.56,15.12,Moscow,Eastern Europe,costos_turisticos
+57,San Marino,Desconocido,Europa,8763518.0,6.77,7.47,22.68,41.04,14.04,20.52,San Marino,Southern Europe,costos_turisticos
+75,Senegal,Desconocido,África,17118512.5,19.14,7.3,23.0,36.0,30.0,32.0,Dakar,África Occidental,costos_turisticos
+73,Serbia,Desconocido,Europa,12066549.0,5.11,1.77,32.4,33.48,11.88,29.16,Belgrade,Southern Europe,costos_turisticos
+45,Singapur,Desconocido,Asia,11671720.0,10.18,1.63,33.0,24.0,14.0,46.0,Singapur,Sudeste Asiático,costos_turisticos
+5,Slovakia,Bratislava,Europa,5454413.5,8.12,2.56,35.64,25.92,14.04,19.44,Bratislava,Eastern Europe,costos_turisticos
+50,Slovenia,Desconocido,Europa,9796612.0,8.7,5.92,24.84,52.92,7.56,32.4,Ljubljana,Southern Europe,costos_turisticos
+54,Spain,Desconocido,Europa,32422332.5,22.9,4.02,29.16,45.36,9.72,32.4,Madrid,Southern Europe,costos_turisticos
+4,Sudáfrica,Pretoria,África,59308690.0,16.97,5.84,21.0,20.0,25.0,43.0,Pretoria,África Austral,costos_turisticos
+90,Sweden,Desconocido,Europa,13910343.5,14.44,6.42,34.56,24.84,9.72,27.0,Stockholm,Northern Europe,costos_turisticos
+76,Switzerland,Desconocido,Europa,13073860.0,19.58,2.46,25.92,33.48,9.72,10.8,Bern,Western Europe,costos_turisticos
+59,Tailandia,Desconocido,Asia,43646538.0,5.9,6.78,24.0,22.0,30.0,59.0,Bangkok,Sudeste Asiático,costos_turisticos
+52,Tanzania,Desconocido,África,38613658.0,20.5,2.42,11.0,18.0,29.0,17.0,Dodoma,África Oriental,costos_turisticos
+65,Turquía,Desconocido,Asia,50916082.5,10.62,7.25,28.0,35.0,48.0,36.0,Ankara,Asia Occidental,costos_turisticos
+48,Túnez,Desconocido,África,14655858.5,15.4,5.54,18.0,37.0,11.0,26.0,Túnez,África del Norte,costos_turisticos
+9,Uganda,Desconocido,África,31617052.5,17.02,3.14,16.0,36.0,26.0,33.0,Kampala,África Oriental,costos_turisticos
+74,Ukraine,Desconocido,Europa,29454049.0,21.31,2.05,36.72,45.36,5.4,32.4,Kyiv,Eastern Europe,costos_turisticos
+85,Uruguay,Desconocido,América,10483414.0,11.22,2.15,27.0,44.0,42.0,59.0,Montevideo,América del Sur,costos_turisticos
+29,Uzbekistán,Desconocido,Asia,25481150.5,16.85,5.43,23.0,54.0,18.0,22.0,Taskent,Asia Central,costos_turisticos
+34,Venezuela,Desconocido,América,22964519.0,23.98,1.54,18.0,49.0,27.0,69.0,Caracas,América del Sur,costos_turisticos
+60,Vietnam,Desconocido,Asia,57415838.5,11.51,4.25,49.0,43.0,13.0,40.0,Hanói,Sudeste Asiático,costos_turisticos
+38,Zambia,Desconocido,África,17938526.5,6.95,1.76,13.0,14.0,24.0,45.0,Lusaka,África Austral,costos_turisticos
