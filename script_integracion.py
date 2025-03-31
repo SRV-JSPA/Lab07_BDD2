@@ -10,7 +10,7 @@ import json
 load_dotenv()
 
 DB_RELACIONAL_PATH = 'datos_paises.db' 
-MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://giovannisantos1890:Yhlqmdlg9@cluster0.vqry3kh.mongodb.net/?retryWrites=true&w=majority")
+MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://giovannisantos1890:<>@cluster0.vqry3kh.mongodb.net/?retryWrites=true&w=majority")
 
 MONGO_DB = "paisesDB"
 MONGO_COLLECTIONS = ["big_mac_index", "costos_turisticos"]
